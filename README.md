@@ -54,7 +54,7 @@ In order to run this project you need: only to clone this github repo
 Clone this repository to your desired folder:
 
 - cd my-folder
-- git clone https://github.com/husush23/Hello-Microverse.git
+- git clone https://github.com/husush23/porfolio.gitt
 
 ### Install
 
